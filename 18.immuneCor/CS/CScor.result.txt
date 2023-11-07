@@ -1,0 +1,23 @@
+Gene	Cell	cor	pvalue
+CS	T cells regulatory (Tregs)	0.433370106	3.83E-34
+CS	B cells memory	0.278379868	3.29E-14
+CS	NK cells resting	0.272071795	1.29E-13
+CS	T cells CD4 naive	0.248010326	1.70E-11
+CS	Macrophages M0	0.121464706	0.00112771
+CS	Mast cells activated	0.113167851	0.002424393
+CS	T cells CD8	0.079062953	0.034413247
+CS	Plasma cells	0.035644458	0.340885586
+CS	B cells naive	0.020376849	0.586199842
+CS	T cells follicular helper	0.014565375	0.69721508
+CS	Macrophages M1	0.014565375	0.69721508
+CS	Dendritic cells resting	0.014565375	0.69721508
+CS	Eosinophils	0.014565375	0.69721508
+CS	Macrophages M2	-0.062243557	0.096066882
+CS	NK cells activated	-0.062780939	0.093225262
+CS	Dendritic cells activated	-0.09701222	0.009391509
+CS	Monocytes	-0.123146422	0.000960007
+CS	Mast cells resting	-0.138774851	0.000195384
+CS	T cells CD4 memory activated	-0.158066715	2.15E-05
+CS	Neutrophils	-0.316630631	3.89E-18
+CS	T cells gamma delta	-0.333676923	4.42E-20
+CS	T cells CD4 memory resting	-0.366304107	3.71E-24

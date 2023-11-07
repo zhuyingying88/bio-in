@@ -1,0 +1,10 @@
+Cell	pvalue
+T cells CD4 naive	0.00722498106703223
+T cells CD4 memory resting	1.09728103635385e-07
+T cells regulatory (Tregs)	0.00013685310613336
+T cells gamma delta	0.000274271201639548
+NK cells resting	0.00157218454011804
+NK cells activated	0.0314888552534397
+Macrophages M0	0.000138705580854397
+Macrophages M2	0.0380939291077697
+Mast cells activated	0.0030949662554206

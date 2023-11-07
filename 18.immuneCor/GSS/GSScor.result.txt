@@ -1,0 +1,23 @@
+Gene	Cell	cor	pvalue
+GSS	NK cells resting	0.22637429	8.98E-10
+GSS	T cells regulatory (Tregs)	0.214402159	6.85E-09
+GSS	T cells CD4 naive	0.165617092	8.40E-06
+GSS	T cells CD8	0.137824322	0.000216322
+GSS	Macrophages M0	0.116563338	0.001782719
+GSS	Mast cells activated	0.107567438	0.003956059
+GSS	B cells memory	0.102376458	0.00610983
+GSS	T cells follicular helper	0.031573345	0.39890452
+GSS	Macrophages M1	0.031573345	0.39890452
+GSS	Dendritic cells resting	0.031573345	0.39890452
+GSS	Eosinophils	0.031573345	0.39890452
+GSS	NK cells activated	0.004771431	0.898582311
+GSS	Plasma cells	-0.010403824	0.781082612
+GSS	Macrophages M2	-0.038571208	0.302693041
+GSS	Monocytes	-0.040764223	0.276011365
+GSS	B cells naive	-0.056485133	0.131042391
+GSS	T cells CD4 memory activated	-0.107934842	0.003833531
+GSS	Dendritic cells activated	-0.113838628	0.002282976
+GSS	T cells gamma delta	-0.119498873	0.001357818
+GSS	Mast cells resting	-0.126907405	0.000664923
+GSS	T cells CD4 memory resting	-0.335822694	2.47E-20
+GSS	Neutrophils	-0.386017986	7.38E-27

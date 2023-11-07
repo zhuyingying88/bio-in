@@ -1,0 +1,23 @@
+Gene	Cell	cor	pvalue
+PGD	Macrophages M0	0.351122476	3.35E-22
+PGD	Neutrophils	0.334433332	3.60E-20
+PGD	T cells regulatory (Tregs)	0.304240773	8.44E-17
+PGD	Mast cells activated	0.249473445	1.28E-11
+PGD	Monocytes	0.185441843	5.83E-07
+PGD	NK cells resting	0.149811431	5.71E-05
+PGD	T cells follicular helper	0.0194507	0.603338879
+PGD	Macrophages M1	0.0194507	0.603338879
+PGD	Dendritic cells resting	0.0194507	0.603338879
+PGD	Eosinophils	0.0194507	0.603338879
+PGD	Plasma cells	-0.008413559	0.822179905
+PGD	B cells memory	-0.068195489	0.068194092
+PGD	T cells CD4 naive	-0.081317111	0.029577707
+PGD	Mast cells resting	-0.128846033	0.000548099
+PGD	Dendritic cells activated	-0.145161413	9.69E-05
+PGD	B cells naive	-0.147829692	7.17E-05
+PGD	NK cells activated	-0.171523805	3.91E-06
+PGD	Macrophages M2	-0.181468636	1.02E-06
+PGD	T cells CD4 memory activated	-0.182316986	9.05E-07
+PGD	T cells CD8	-0.236621051	1.44E-10
+PGD	T cells CD4 memory resting	-0.30184562	1.51E-16
+PGD	T cells gamma delta	-0.370065093	1.17E-24
