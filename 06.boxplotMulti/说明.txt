@@ -1,0 +1,2 @@
+差异基因的箱线图
+输入文件：input根据03.diff得出的diffGeneExp文件整理得到
